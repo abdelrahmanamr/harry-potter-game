@@ -22,3 +22,8 @@
 
 The Game is developed in an Object-Oriented Design using Java, OOP features, Swing library for the GUI.
 
+
+## Team
+
+| [<img src="https://avatars0.githubusercontent.com/u/29815384" width="150px;" height="150px;"/><br /><sub><b>Abdelrahman Amr</b></sub>](https://github.com/abdelrahmanamr) | [<img src="https://avatars1.githubusercontent.com/u/36255536" width="150px;" height="150px;"/><br /><sub><b>Loay Naser</b></sub>](https://github.com/LoaiAlaa24) | [<img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" width="150px;" height="150px;"/><br /><sub><b>Omar Wahsh</b></sub>](https://www.linkedin.com/in/omar-wahsh-8a7a42144) |
+| :---: | :---: | :---: |
