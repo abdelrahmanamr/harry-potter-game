@@ -8,3 +8,17 @@
 |                    Game Play                         | 
 | :-----------------------------------------------:| 
 | <img src="pics/game.jpg" width="800px;"> |
+
+
+
+# MileStones:
+- [x] Milestone 1: Game Hierarchy
+
+- [x] Milestone 2: Engine: Tournament Tasks Implementation
+
+- [x] Milestone 3: Exceptions + Setup for the GUI
+
+- [x] Milestone 4: GUI + Integration
+
+The Game is developed in an Object-Oriented Design using Java, OOP features, Swing library for the GUI.
+
